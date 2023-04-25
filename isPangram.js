@@ -26,4 +26,4 @@ for(var i=0;i<26;i++)
 console.log(isPangram("HijklmnopqrstuvwasdasSD@#asdxyz"));
 
 //PANGRAM
-console.log(isPangram("The quick brown fox jumps over the lazy dog");
+console.log(isPangram("Thequickbrownfoxjumpsoverthelazydog"));
